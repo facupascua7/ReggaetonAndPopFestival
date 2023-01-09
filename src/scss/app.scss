@@ -1,0 +1,7 @@
+// este es el archivo principal porque no tiene el _ en el inicio del nombre
+
+// @import 'base/variables';
+// @import 'contenido/contenido';
+
+@use 'base'; // si tenemos el archivo _index, de esta forma es suficiente
+@use 'layout';
